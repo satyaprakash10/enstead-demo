@@ -41,8 +41,7 @@ npm run dev
 ```
 
 ### To run project
-
-## git checkout master branch
+```sh git checkout master branch```
 
 ### Type-Check, Compile and Minify for Production
 
