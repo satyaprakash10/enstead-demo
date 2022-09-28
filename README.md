@@ -40,6 +40,10 @@ npm install
 npm run dev
 ```
 
+### To run project
+
+## git checkout master branch
+
 ### Type-Check, Compile and Minify for Production
 
 ```sh
