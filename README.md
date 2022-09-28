@@ -21,6 +21,13 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+### Project Summary
+ -  This project is developed inder Vue js (version:3) and Tailwind CSS for UI and designing.
+ -  The API integrate is done in this proeject.
+ -  The Typescript is used for VITE development.
+
+
+
 ## Project Setup
 
 ```sh
